@@ -10,6 +10,9 @@
         <mxCell id="3" value="加载试卷数据&lt;br&gt;&lt;font color=&quot;#666666&quot;&gt;getMakePaper()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BBDEFB;strokeColor=#1976D2;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="340" y="140" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nGNadHJ4AwbaJt-Zq3Nq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4" target="nGNadHJ4AwbaJt-Zq3Nq-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="有图片文件?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFF9C4;strokeColor=#F9A825;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="340" y="240" width="140" height="100" as="geometry" />
         </mxCell>
@@ -104,6 +107,9 @@
         </mxCell>
         <mxCell id="30" value="&lt;br&gt;• 坐标转换 - 自适应&lt;br&gt;• 防抖保存&lt;br&gt;• 虚拟节点处理" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF3E0;size=20;align=left;verticalAlign=top;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="560" y="720" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nGNadHJ4AwbaJt-Zq3Nq-30" value="hover/点击划分框&lt;br&gt;&lt;font color=&quot;#666666&quot;&gt;(题干/答案/解析)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#7B1FA2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
