@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="第 1 页" id="WhNm6FwR_ZscUM1pVnfr">
+    <mxGraphModel dx="703" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rEyhImuNeSfi2AyzdZks-1" value="点击/hover题干&lt;div&gt;点击/hover答案&lt;/div&gt;&lt;div&gt;点击/hover解析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="150" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="rEyhImuNeSfi2AyzdZks-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="340" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="rEyhImuNeSfi2AyzdZks-3" value="渲染划分框" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEyhImuNeSfi2AyzdZks-4" value="共享题干" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rEyhImuNeSfi2AyzdZks-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rEyhImuNeSfi2AyzdZks-6" value="Text" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
