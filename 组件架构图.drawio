@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
-  <diagram name="第 1 页" id="AzwideZ-EEA_veZZ1AnR">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net">
+  <diagram name="组件架构图">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1">
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- WordMatch 主容器 -->
+        <mxCell id="2" value="WordMatch&#xa;主容器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1F5FE;strokeColor=#0288D1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="160" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- HTML模式 -->
+        <mxCell id="3" value="QuestionMatch&#xa;(HTML模式)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#F9A825;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="140" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- 图片模式 -->
+        <mxCell id="4" value="ImageQuestionMatch&#xa;(图片模式)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE0B2;strokeColor=#F57C00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="160" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- 题目树 -->
+        <mxCell id="5" value="RightQuestionView&#xa;(题目结构树)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#388E3C;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="140" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- 直接编辑 -->
+        <mxCell id="6" value="QuestionRedirectEdit&#xa;(直接编辑)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8BBD0;strokeColor=#C2185B;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="140" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- ImageDivider -->
+        <mxCell id="7" value="ImageDivider&#xa;(图片划分器)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#7B1FA2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="160" height="60" as="geometry"/>
+        </mxCell>
+        
+        <!-- Canvas层 -->
+        <mxCell id="8" value="Canvas&#xa;绘制层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B39DDB;strokeColor=#512DA8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="100" height="50" as="geometry"/>
+        </mxCell>
+        
+        <!-- 分区面板 -->
+        <mxCell id="9" value="分区操作&#xa;面板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B39DDB;strokeColor=#512DA8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="100" height="50" as="geometry"/>
+        </mxCell>
+        
+        <!-- 连线 -->
+        <mxCell id="10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="4" target="7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="15" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="16" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="7" target="9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
