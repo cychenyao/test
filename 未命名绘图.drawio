@@ -11,7 +11,7 @@
           <mxGeometry x="30" y="190" width="340" height="290" as="geometry" />
         </mxCell>
         <mxCell id="rEyhImuNeSfi2AyzdZks-3" value="渲染划分框" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="210" width="90" height="30" as="geometry" />
+          <mxGeometry x="140" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rEyhImuNeSfi2AyzdZks-4" value="共享题干" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="444" y="210" width="90" height="30" as="geometry" />
