@@ -31,6 +31,63 @@
             <mxPoint x="450" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="学科选择" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-3" edge="1" parent="1" source="NhGJfuyxSpGtvrEXyECc-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Mh_hIvQSpVrg57OIDJTD-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="590" as="sourcePoint" />
+            <mxPoint x="450" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-4" edge="1" parent="1" source="Mh_hIvQSpVrg57OIDJTD-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="610" as="sourcePoint" />
+            <mxPoint x="180" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="有无附加题" vertex="1">
+          <mxGeometry height="80" width="160" x="100" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-7" edge="1" parent="1" source="Mh_hIvQSpVrg57OIDJTD-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="710" as="sourcePoint" />
+            <mxPoint x="180" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="无" vertex="1">
+          <mxGeometry height="30" width="60" x="120" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="显示题组" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-11" edge="1" parent="1" source="Mh_hIvQSpVrg57OIDJTD-6" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="Mh_hIvQSpVrg57OIDJTD-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="710" as="sourcePoint" />
+            <mxPoint x="350" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="有" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="得到附加题题组" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-15" edge="1" parent="1" source="Mh_hIvQSpVrg57OIDJTD-14" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="710" as="sourcePoint" />
+            <mxPoint x="180" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-16" edge="1" parent="1" source="Mh_hIvQSpVrg57OIDJTD-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="870" as="sourcePoint" />
+            <mxPoint x="180" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mh_hIvQSpVrg57OIDJTD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="编辑/添加分组弹窗" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="830" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
