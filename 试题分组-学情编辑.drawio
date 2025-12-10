@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.2.6">
   <diagram name="第 1 页" id="zLABszj2mDPPW9lF9BHu">
-    <mxGraphModel dx="851" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,6 +144,24 @@
         </mxCell>
         <mxCell id="Mh_hIvQSpVrg57OIDJTD-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="getExamGroupDetail&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="1120" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="JJWBa8AgUAhYcZBZJU0q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="examSubjects" vertex="1">
+          <mxGeometry height="65" width="199" x="1020" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="JJWBa8AgUAhYcZBZJU0q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="paperIds" vertex="1">
+          <mxGeometry height="60" width="120" x="1580" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="JJWBa8AgUAhYcZBZJU0q-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="data" vertex="1">
+          <mxGeometry height="60" width="120" x="1320" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="JJWBa8AgUAhYcZBZJU0q-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1120" y="490" as="sourcePoint" />
+            <mxPoint x="1120" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJWBa8AgUAhYcZBZJU0q-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;CurrentSubject&lt;/div&gt;first published exam subject id" vertex="1">
+          <mxGeometry height="60" width="260" x="989.5" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
