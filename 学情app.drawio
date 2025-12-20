@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="eHORgYqrbrg6dOtODBUj">
-    <mxGraphModel>
+    <mxGraphModel dx="1234" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XpFEazTbATZ6GgamZwtC-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;学情列表&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XpFEazTbATZ6GgamZwtC-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;全科&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="260" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XpFEazTbATZ6GgamZwtC-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;单科&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="450" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XpFEazTbATZ6GgamZwtC-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;班级学情&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="310" x="250" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XpFEazTbATZ6GgamZwtC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="筛选项：&lt;div&gt;学年&lt;div&gt;年级&lt;/div&gt;&lt;div&gt;班级&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="90" x="40" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
