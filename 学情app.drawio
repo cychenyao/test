@@ -16,8 +16,8 @@
         <mxCell id="XpFEazTbATZ6GgamZwtC-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;班级学情&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="310" x="250" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="XpFEazTbATZ6GgamZwtC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="筛选项：&lt;div&gt;学年&lt;div&gt;年级&lt;/div&gt;&lt;div&gt;班级&lt;/div&gt;&lt;/div&gt;&lt;div&gt;学科&lt;/div&gt;&lt;div&gt;类型&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="90" x="40" y="180" as="geometry" />
+        <mxCell id="XpFEazTbATZ6GgamZwtC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="筛选项：&lt;div&gt;学年&lt;div&gt;年级&lt;/div&gt;&lt;div&gt;&lt;b&gt;班级&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;学科&lt;/b&gt;&lt;/div&gt;&lt;div&gt;类型&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="90" x="40" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
